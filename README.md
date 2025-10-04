@@ -21,7 +21,7 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/pavly-youssef-755085253" target="_blank">
+  <a href="https://www.linkedin.com/in/pavly-youssef-755085253" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
