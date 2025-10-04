@@ -1,5 +1,31 @@
-<h3 align="center">Visitor Count</h3>
+## 🚀 About Me
+🎓 I'm a **Systems and Biomedical Engineering Student** at **Faculty of Engineering, Cairo University**.  
+💡 I'm passionate about **Software Development**, **Artificial Intelligence (AI)**, and **Machine Learning**.  
+🚀 I love building efficient, scalable systems and exploring how AI can transform healthcare in Egypt.  
 
+---
+
+## ⚙️ Tools & Technologies
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+</p>
+
+### 🧰 Other Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=matlab,arduino,git" />
+</p>
+
+---
+
+## 🔗 Connect With Me
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PavlyAwad&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+  <a href="www.linkedin.com/in/pavly-youssef-755085253" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pavly.youssef03@eng-st.cu.edu.eg">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
+  </a>
 </p>
