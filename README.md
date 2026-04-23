@@ -1,6 +1,6 @@
 ## 🚀 About Me
 🎓 I'm a **Systems and Biomedical Engineering Student** at **Faculty of Engineering, Cairo University**.  
-💡 I'm passionate about **Software Development**, **Artificial Intelligence (AI)**, and **Machine Learning**.  
+💡 I'm passionate about **Software Development**, **Artificial Intelligence (AI)** **(Machine Learning & Deep Learning)**.  
 🚀 I love building efficient, scalable systems and exploring how AI can transform healthcare in Egypt.  
 
 ---
